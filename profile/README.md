@@ -1,9 +1,7 @@
-Manage all of your APIs in Kafkaman, with the industry's most complete Apache Kafka platform.
-
-Twitter LinkedIn YouTube Twitch Discourse
+Manage all of your Kafka tests in Kafkaman, with the industry's most complete Apache Kafka platform.
 
 # Welcome to Kafkaman 🚀
-Kafkaman has always believed in open dialogue with our community; we continuously make improvements and add new features based on feedback from our community of more than 17 million developers. We are transparent with our roadmaps, we constantly communicate our issues, and we support all major API specifications. That's the Kafkaman open philosophy.
+Kafkaman has always believed in open dialogue with our community; we continuously make improvements and add new features based on feedback.
 
 ## The community
 To get involved with our community, please make sure you are familiar with our Code of Conduct and join our community forum. You can also get breaking news about new features and activities on Twitter. Feel free to drop by and say hello.
@@ -26,4 +24,14 @@ Command-line tool for running and testing a Kafkaman Collection.
 
 | Open-Source Projects  |  Description |
 |---|---|
-| kafkaman-node-keytool  | Basic wrapper for the java keytool  |
+| kafkaman-cli  | Command-line tool for running and testing a Kafkaman Collection.|
+| kafkaman-collection  | SDK to quickly unlock the power of Kafkaman Collections Format using JavaScript.  |
+| kafkaman-runtime  | The core of kafkaman that helps to execute Kakfman scripts, and tests.  |
+| kafkaman-kafka  | The core of kafkaman that helps to execute Kakfman Kafka Requests.  |
+| Learning Center  | The Kafkaman Learning Center has all of the resources you need to ramp up quickly and extend your skills.  |
+
+
+### Acknowledgements
+* Thanks to [Postman-Inc](https://github.com/postmanlabs) and [KafkaJS](https://github.com/tulios/kafkajs) for his incredible contribution in open source projects ❤️
+* Thanks to Laura for the illustrations ❤️
+* Thanks to Jesus for the tests ❤️
